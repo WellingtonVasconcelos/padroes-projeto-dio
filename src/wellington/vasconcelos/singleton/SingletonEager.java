@@ -1,4 +1,4 @@
-package wellington.vasconcelos;
+package wellington.vasconcelos.singleton;
 
 /**
  * Singleton "apressado".
